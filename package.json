@@ -1,0 +1,30 @@
+{
+  "name": "fornum-minecodes",
+  "version": "1.0.0",
+  "description": "This package loops funtions for a couple of time",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minecodes/fornum.git"
+  },
+  "keywords": [
+    "fornum",
+    "for-loop",
+    "number",
+    "loop",
+    "loops",
+    "schleife",
+    "function",
+    "MIT",
+    "Minecodes"
+  ],
+  "author": "Minecodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Minecodes/fornum/issues"
+  },
+  "homepage": "https://github.com/Minecodes/fornum#readme"
+}
