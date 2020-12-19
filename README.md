@@ -1,6 +1,10 @@
 # ✨ fornum ✨
 This package loops funtions for a couple of time
 
+[Gitlab](https://gitlab.com/Minecodes13/fornum)
+[Github](https://github.com/Minecodes/fornum)
+[NPM](https://npmjs.com/package/fornum-minecodes)
+
 ----------
 
 ## Install ✔:
