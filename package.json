@@ -1,6 +1,6 @@
 {
   "name": "fornum-minecodes",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This package loops funtions for a couple of time",
   "main": "main.js",
   "scripts": {
